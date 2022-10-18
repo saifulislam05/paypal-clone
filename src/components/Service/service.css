@@ -1,0 +1,33 @@
+
+
+.service_wrapper{
+    padding:30px ;
+    display: flex;
+    justify-content: flex-end;
+}
+.service_wrapper .content_side{
+    margin: auto;
+    padding: 30px;
+}
+.service_title{
+    color: #029ce0;
+}
+
+.service_description{
+    font-weight: 600;
+}
+
+
+.service_image_side_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.service_image_side_wrapper .image{
+width: 60%;
+align-self: center;
+}
+.service_image_side_wrapper .image img{
+    width: 100%;
+}
+

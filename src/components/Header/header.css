@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+.logo img{
+width: 100%;
+}
+.nav_item_wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+}
+
+
+.btns{
+   display: flex;
+   justify-content: flex-end;
+
+}
+
+.btns button{
+    margin-left: 10px;
+}
+
